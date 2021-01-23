@@ -1,0 +1,11 @@
+{
+  "name": "another-political-compass-api",
+  "version": "1.0.0",
+  "description": "A political compass test",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Ashton Graves",
+  "license": "MIT"
+}
